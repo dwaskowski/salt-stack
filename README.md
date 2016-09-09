@@ -1,1 +1,6 @@
-# SaltStack conception for Prododuction (Prod), Staging (Staging), Quality (QA), Development (Dev)
+# SaltStack
+Conception for:
+- Prododuction (Prod)
+- Staging (Staging)
+- Quality (QA)
+- Development (Dev)
